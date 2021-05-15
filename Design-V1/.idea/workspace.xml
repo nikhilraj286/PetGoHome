@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf0651e9-dc19-42ac-96d4-bb8267f2f14d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetGoHome.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PetGoHome.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetGoHome/src/main/java/team10spring2021cmpe272/petgohome/Backend/MySQLConnector/MySQLConnector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetGoHome/src/main/java/team10spring2021cmpe272/petgohome/Backend/PetGoHomeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/PetGoHome/src/main/java/team10spring2021cmpe272/petgohome/Backend/PetGoHomeApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetGoHome/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/PetGoHome/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetGoHome/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetGoHome/target/classes/team10spring2021cmpe272/petgohome/BackEndUtilities/PasswordHasher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetGoHome/target/classes/team10spring2021cmpe272/petgohome/BackEndUtilities/ResultSetConvertor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetGoHome/target/classes/team10spring2021cmpe272/petgohome/BackEndUtilities/SystemOptionalLogging.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetGoHome/target/classes/team10spring2021cmpe272/petgohome/Backend/BackendController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetGoHome/target/classes/team10spring2021cmpe272/petgohome/Backend/PetGoHomeApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetGoHome/target/classes/team10spring2021cmpe272/petgohome/Backend/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetGoHome/target/classes/team10spring2021cmpe272/petgohome/MySQLConnector/MySQLConnector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetGoHome/target/classes/team10spring2021cmpe272/petgohome/UserDAL/UserCreate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetGoHome/target/classes/team10spring2021cmpe272/petgohome/UserDAL/UserRead.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetGoHome/target/test-classes/team10spring2021cmpe272/petgohome/PetGoHomeApplicationTests.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1r92Tn8WMPWR46KbvU9zawIIyjr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39267015" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PetGoHomeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="PetGoHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="team10spring2021cmpe272.petgohome.Backend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="team10spring2021cmpe272.petgohome.Backend.PetGoHomeApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <envs>
+        <env name="jdbcConnectionString" value="jdbc:mysql://localhost:3306/SpringBackEnd?serverTimezone=America/Los_Angeles" />
+        <env name="jdbcUsername" value="root" />
+        <env name="jdbcPassword" value="password123" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.PetGoHomeApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf0651e9-dc19-42ac-96d4-bb8267f2f14d" name="Default Changelist" comment="" />
+      <created>1618373997094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618373997094</updated>
+      <workItem from="1618373998829" duration="2140000" />
+      <workItem from="1618376192414" duration="2136000" />
+      <workItem from="1618380263490" duration="7036000" />
+      <workItem from="1618549158159" duration="17840000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

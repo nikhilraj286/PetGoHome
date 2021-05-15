@@ -1,0 +1,31 @@
+.mainHeader {
+  /* background: -webkit-radial-gradient(circle, #eee, #333); */
+  background: #ed966d;
+  background: -webkit-radial-gradient(center, #ed966d, #d93e2c);
+  background: -moz-radial-gradient(center, #ed966d, #d93e2c);
+  background: radial-gradient(ellipse at center, #ed966d, #d93e2c);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.landing-btn {
+  display: block;
+  background: #ed966d;
+  background: -webkit-radial-gradient(center, #ed966d, #d93e2c);
+  background: -moz-radial-gradient(center, #ed966d, #d93e2c);
+  background: radial-gradient(ellipse at center, #ed966d, #d93e2c);
+  color: #fff;
+  /* border: 2px solid #fff; */
+  width: 25%;
+  margin-left: 10px;
+  text-align: center;
+  border-radius: 25px;
+  padding: 15px 0;
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #eee;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.landing-btn:hover {
+  transform: scale(1.05);
+}

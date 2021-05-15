@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<!-- saved from url=(0022)http://127.0.0.1:5000/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <title>Walmart Sales Prediction</title>
+  <link href="./Walmart Sales Prediction_files/css" rel="stylesheet" type="text/css">
+<link href="./Walmart Sales Prediction_files/css(1)" rel="stylesheet" type="text/css">
+<link href="./Walmart Sales Prediction_files/css(2)" rel="stylesheet" type="text/css">
+<link href="./Walmart Sales Prediction_files/css(3)" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="./Walmart Sales Prediction_files/style.css">
+<link rel="icon" type="image/png" href="http://127.0.0.1:5000/static/images/walmartIcon.png">
+<link rel="stylesheet" href="./Walmart Sales Prediction_files/bootstrap.min.css">
+<script src="./Walmart Sales Prediction_files/bootstrap.min.js"></script>
+
+
+</head>
+
+<body>
+ <div class="login">
+	<h1>Walmart Sales Prediction</h1>
+  
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form method="post" action="http://127.0.0.1:5000/predict">
+      
+      <div class="row">
+      <div class="col-sm-6">
+        
+        <label for="store">Store:</label>
+    	  <input type="text" name="store" placeholder="Store">
+
+        <label for="dept">Department:</label>
+        <input type="text" name="dept" placeholder="Dept">
+
+        <label for="date">Date:</label>
+        <input type="date" id="date" name="date">
+
+      </div>
+
+      <div class="col-sm-6">
+
+        <label for="fuelPrice">Fuel Price:</label>
+        <input type="text" id="fuelPrice" name="fuelPrice" placeholder="Fuel Price">
+
+        <label for="temp">Temperature:</label>
+        <input type="text" id="temp" name="temp" placeholder="Temperature">
+
+        <label for="unemployment">Unemployment:</label>
+        <input type="text" id="unemployment" name="unemployment" placeholder="Unemployment">
+
+      </div>
+    <div class="col-sm-8">
+      <label for="isholiday">IsHoliday:</label>
+      <input class="form-check-input" type="radio" name="isHolidayRadio" id="yes" style="
+    width: auto;
+">
+      <label class="form-check-label" for="yes"> Yes </label>
+      <input class="form-check-input" type="radio" name="isHolidayRadio" id="no">
+      <label class="form-check-label" for="no"> No </label>
+    </div>
+    </div>
+      <button type="submit" class="btn btn-primary btn-block btn-large" style="width: 25%; margin: auto; margin-top: 5%;">Predict</button>
+
+    </form>
+   
+   </div>
+
+
+
+</body></html>

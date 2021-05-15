@@ -1,0 +1,28 @@
+.appHeadings {
+  font-family: Georgia, serif;
+  color: #4e443c;
+  font-variant: small-caps;
+  text-transform: none;
+  font-weight: 100;
+  margin-bottom: 0;
+  font-size: 30px;
+  margin: 5px;
+}
+
+.appSubHeadings {
+  font-family: Georgia, serif;
+  color: #4e443c;
+  font-variant: small-caps;
+  text-transform: none;
+  font-weight: 100;
+  margin-bottom: 0;
+  font-size: 25px;
+}
+
+.lostFound .row {
+  padding: 20px 0;
+}
+
+.lostFound .col {
+  padding: 0 20px;
+}

@@ -1,0 +1,24 @@
+{
+    "development": {
+      "username": "root",
+      "password": "password123",
+      "database": "PetGoHome",
+      "host": "petgohome.cyazxyujehyt.us-west-2.rds.amazonaws.com",
+      "dialect": "mysql"
+    },
+    "test": {
+        "username": "root",
+        "password": "password123",
+        "database": "PetGoHome",
+        "host": "petgohome.cyazxyujehyt.us-west-2.rds.amazonaws.com",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "root",
+        "password": "password123",
+        "database": "PetGoHome",
+        "host": "petgohome.cyazxyujehyt.us-west-2.rds.amazonaws.com",
+        "dialect": "mysql"
+    }
+  }
+  

@@ -1,0 +1,26 @@
+
+Steps:
+Run "PetGoHome-0.0.1.SNAPSHOT.jar" by using "java -jar PetGoHome-0.0.1.SNAPSHOT.jar" on your terminal
+
+
+
+- - - -  - - - - - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+If you change code and want to compile the project, follow the steps:
+
+1. Use IntelliJ IDEA Ultimate as IDE
+
+2. Project SDK : Java 11  (You can change version from File --> Project Structure)
+
+3. Click the Maven button (on the rightmost side)
+
+4. Pressing "command" on your keyboard, and select "clean" and "package" at the same time
+
+5. Click "Run Maven Build"  (green triangle button)
+
+6. You will see "BUILD SUCCESS"
+
+7. Under the target directory (on the left-hand side), there is a "PetGoHome-0.0.1.SNAPSHOT.jar"
+
+8. Run "PetGoHome-0.0.1.SNAPSHOT.jar" by using "java -jar PetGoHome-0.0.1.SNAPSHOT.jar" on your terminal
+
+
